@@ -1,4 +1,7 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img src="./light.svg" alt="Ilya Starodubov — developer">
+</picture>
 
 <!--
 **IliaStarodubov/IliaStarodubov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
